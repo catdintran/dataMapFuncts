@@ -3,7 +3,7 @@ Using DataMaps, d3.js
 
 
 [![Demo
-screenshot](img/worldMap.png)](https://catdintran.github.io/dataMapFuncts)
+screenshot](worldMap.png)](https://catdintran.github.io/dataMapFuncts)
 
 # Description
 This repo contains all necessary files to run, just clone and run the datamap.html file on browser.
